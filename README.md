@@ -1,4 +1,3 @@
-## spcn09 
 ## Kubernetes In Windows
 
 ## Wakatime
@@ -9,6 +8,7 @@ https://wakatime.com/@spcn09/projects/mibvulurid?start=2023-03-13&end=2023-03-19
    - https://youtube.com/playlist?list=PLJz1XVERx6ACV-vTC6eG7HSMdBUR0dZId
    - https://youtube.com/playlist?list=PLJz1XVERx6ACkMfMdLmziWg5P7wswAGV7
    - https://github.com/TanankornMoonprathom/Kube
+   - https://github.com/KanchanaRangcharoen/Kube
 
 
 ## 1. Install Kubectl
